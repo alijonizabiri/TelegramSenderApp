@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WfgVCH4zRBlEKFqhPzM+dxOivvceg9FWWTuKDccZilo=",
+  "Source": "TelegramSenderApp",
+  "BasePath": "_content/TelegramSenderApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
